@@ -1,0 +1,85 @@
+.navbar {
+
+    background-color: white;
+
+}
+
+.bg-light {
+    color: red;
+}
+
+.text-icone {
+    color: white;
+}
+
+.container {
+    color: #ecb807;
+
+}
+
+.name__camera {
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.product {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+
+}
+
+
+.right {
+    background-color: #f1db91;
+    border-left: 1px black solid;
+}
+
+.left {
+    background-color: #f1db91;
+
+
+}
+
+.left,
+.right {
+    text-align: center;
+
+    padding: 3.5rem 0.8rem;
+
+}
+
+.left h2,
+.right h2 {
+    margin-bottom: 5rem;
+}
+
+.container {
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 3rem;
+}
+
+footer.footer {
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-top: 2rem;
+
+}
+
+.row {
+    margin-bottom: 7rem;
+}
+
+.footer .container {
+    padding-bottom: 0;
+}
+
+
+.mb-5,
+.my-5 {
+    margin-bottom: 0rem !important;
+    margin-top: 15px;
+}
