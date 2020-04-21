@@ -387,7 +387,7 @@ align-items: center;
  footer.footer {
    padding-top: 5rem;
    padding-bottom:5rem;
-   background: #009966;
+   background: white;
    border-top-width: 1px;
    border-top-style: solid;
  }
@@ -398,7 +398,7 @@ align-items: center;
    width: 4rem;
    line-height: 4.3rem;
    font-size: 1.5rem;
-   background-color: #009966;
+   background-color: whitesmoke;
    transition: background-color 0.15s ease-in-out;
    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.01);
  }
@@ -412,5 +412,5 @@ align-items: center;
  a:hover,
  a:focu,
  a:active {
-   color: #009966;
+   color: whitesmoke;
  }
