@@ -1,1 +1,5 @@
-node_modules
+# Composer
+vendor
+
+# Fichier de config
+app/config.ini
